@@ -1,0 +1,60 @@
+title: "Alfa-Betta"
+email: info@alfa-betta.be
+timezone: UTC
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+main-logo: 'assets/images/logo_alfa-betta.png'
+favicon: 'assets/images/favicon.ico'
+author: Steven
+paginate: 10
+disqus: ''
+locale: nl_BE
+lang: nl_BE
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: G-6Y97EC18DX
+
+# Authors
+authors:
+  steven:
+    name: Steven
+    display_name: Steven Alfa-Betta
+    avatar: 'assets/images/auteur/auteur_steven.png'
+    email: info@alfa-betta.be
+    web: https://www.alfa-betta.be
+    twitter: https://twitter.com/alfabettabe
+    description: "Stichter van alfa-betta-aquariums en schrijver van zijn artikelen"
+
+# Social - door ionicons
+social:
+  facebook: https://www.facebook.com/alfabettabe
+  youtube: https://www.youtube.com/@alfabettabe
+  discord: https://discord.gg/ZKdb6BxHtZ
+  instagram: https://www.instagram.com/alfabettabe/
+
+social-sharing: https://www.alfa-betta.be
+
+# follow knoppen aan de kant van de website
+facebook_url: https://www.facebook.com/alfabettabe
+youtube_url: https://www.youtube.com/@alfabettabe
+instagram_url: https://www.instagram.com/alfabettabe/
+discord_url: https://discord.gg/ZKdb6BxHtZ
+kofi_url: https://ko-fi.com/V7V4NF7PV
+
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

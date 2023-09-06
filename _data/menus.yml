@@ -1,0 +1,48 @@
+# Top Menu
+topmenu:
+
+- title: HOME
+  url: ""
+
+- title: ALGEMEEN
+  url: "categories/#algemeen"
+
+- title: BEHANDELINGEN
+  url: "categories/#behandelingen"
+
+- title: ONDERHOUD
+  url: "categories/#onderhoud"
+
+- title: AANBEVOLEN
+  url: "categories/#aanbevolen"
+
+- title: CONTACT
+  url: "contact/"
+
+- title: ZOEKEN
+  url: "search/"
+
+
+#- title: Get this theme  
+#  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+#  class: "ml-2 btn btn-dark text-white px-3"
+#  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Over
+  url: "over/"
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"
+
+#- title: Download
+#  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+#  external: true

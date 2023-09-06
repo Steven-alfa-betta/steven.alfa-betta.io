@@ -1,0 +1,140 @@
+/* algemeen voor logo */
+
+.main-logo img {
+    width: 512px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+/* SOCIAL SHARING */
+.share-box {
+    padding-top: 10px;
+}
+
+.share-box h5 {
+    text-align: center;
+}
+
+.share-box a {
+    display: inline-block;
+    -webkit-box-shadow: 0 0 1px #777;
+    box-shadow: 0 0 1px #777;
+    padding: 5px 12px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+
+.share-box a:hover {
+    text-decoration: none;
+    -webkit-transition: background-color 200ms linear;
+    -ms-transition: background-color 200ms linear;
+    transition: background-color 200ms linear;
+}
+
+.f {
+    color: #3b5998;
+}
+
+.f:hover {
+    color: #fff;
+    background-color: #3b5998;
+}
+
+.t {
+    color: #4099FF;
+}
+
+.t:hover {
+    color: #fff;
+    background-color: #4099FF;
+}
+
+.g {
+    color: #d34836;
+}
+
+.g:hover {
+    color: #fff;
+    background-color: #d34836;
+}
+
+.r {
+    color: #ff5700;
+}
+
+.r:hover {
+    color: #fff;
+    background-color: #ff5700;
+}
+
+.l {
+    color: #0077b5;
+}
+
+.l:hover {
+    color: #fff;
+    background-color: #0077b5;
+}
+
+.e {
+    color: #444444;
+}
+
+.e:hover {
+    color: #fff;
+    background-color: #444444;
+}
+
+/* SEARCH PAGE */
+
+.search input {
+    width: 100%;
+}
+
+/* SOCIAL ICONS */
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-icon-facebook {
+    color: #1b74e4;
+    transition: color 0.2s;
+    margin: 0 5px 0 0;
+}
+
+.social-icon-facebook:hover {
+    color: #333333;
+}
+
+.social-icon-youtube {
+    color: #ff0000;
+    transition: color 0.2s;
+    margin: 0 5px 0 0;
+}
+
+.social-icon-youtube:hover {
+    color: #333333;
+}
+
+.social-icon-discord {
+    color: #5562ea;
+    transition: color 0.2s;
+    margin: 0 5px 0 0;
+}
+
+.social-icon-discord:hover {
+    color: #333333;
+}
+
+.social-icon-instagram {
+    color: rgb(161, 0, 148);
+    transition: color 0.2s;
+    margin: 0 5px 0 0;
+}
+
+.social-icon-instagram:hover {
+    color: #333333;
+}
