@@ -56,11 +56,11 @@ post_class: post-template
                 {% if page.last_modified_at %}
                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
-                </small>
+            </small>
             </p>
-            
-			
-            
+
+            <!-- ShareThis BEGIN --><div class="sharethis-inline-share-buttons"></div><!-- ShareThis END -->
+
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
               {% if page.previous.url %}
@@ -75,7 +75,6 @@ post_class: post-template
               {% endif %}
             </div>
             <!-- End Prev/Next -->
-            {% include share.html %}
             
              <!-- Author Box -->
                 <!--{% if page.author %}				
