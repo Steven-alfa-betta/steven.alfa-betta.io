@@ -20,7 +20,7 @@ Zorg ervoor dat je naar de verschillende soorten garnalen en pleco's kijkt en zo
 
 #### Aquarium grootte
 
-![Mooi beplant aquarium](/assets/images/2023/sep/borstelneus_garnalen/aquarium_beplant.jpg "Mooi beplant aquarium")
+![Mooi beplant aquarium](/assets/images/2023/sep/plecos_garnalen/aquarium_beplant.jpg "Mooi beplant aquarium")
 Foto door <a href="https://unsplash.com/@huyphan2602?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Huy Phan</a> op <a href="https://unsplash.com/photos/_LWxQJFgpyo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 De eerste factor waar u naar moet kijken, is de grootte van het aquarium. 
